@@ -1,7 +1,7 @@
 
-def sum(num1, num2, num3):
-    result = num1 + num2 + num3
+def sum(num1, num2, num3, num4):
+    result = num1 + num2 + num3 + num4
     return result
 
-result = sum(10, 20, 30)
+result = sum(10, 20, 30, 40)
 print("Sum is", result)
